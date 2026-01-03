@@ -76,14 +76,9 @@ SOAPNote AI is a non-diagnostic assistive tool.<br>
 🚫 It does not provide medical diagnoses or treatment recommendations.<br>
 👩‍⚕️ All generated notes must be reviewed by qualified healthcare professionals.<br><br>
 
-🏆 10. Why This Project is Suitable for a Job Hackathon<br>
-✅ Solves a real-world healthcare problem<br>
-🤝 Demonstrates Speech AI + LLM integration<br>
-📐 Uses structured output validation<br>
-🔐 Ethical and production-aware design<br>
-🎤 Easy to demonstrate and explain<br><br>
 
-🚀 11. Future Enhancements<br>
+
+🚀 10. Future Enhancements<br>
 🌐 Multilingual support<br>
 🔗 Integration with EHR / FHIR systems<br>
 ⏱️ Real-time dictation<br>

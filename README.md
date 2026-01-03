@@ -84,3 +84,8 @@ SOAPNote AI is a non-diagnostic assistive tool.<br>
 ⏱️ Real-time dictation<br>
 📚 Medical terminology standardization<br>
 ☁️ Secure cloud deployment<br><br>
+
+[SOAPNote AI Workflow]<br/>
+
+<img width="1536" height="1024" alt="ChatGPT Image Jan 3, 2026, 02_04_57 PM" src="https://github.com/user-attachments/assets/891939e3-e6fc-4d57-b093-88c97ee2222b" />
+

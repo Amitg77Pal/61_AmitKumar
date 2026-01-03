@@ -1,0 +1,8 @@
+openai
+langchain
+langchain-openai
+faster-whisper
+pydantic
+jupyter
+gTTS
+streamlit
